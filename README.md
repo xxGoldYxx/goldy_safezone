@@ -14,3 +14,6 @@ Config.CircleZones - Blips
 Config.zones       - Safezones
 
 Check client.lua so you can add your own notifications, font etc...
+
+Exports: 
+insafe
